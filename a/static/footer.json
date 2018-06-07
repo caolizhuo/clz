@@ -1,0 +1,27 @@
+[
+  {
+    "routes":"/",
+    "src":require("../src/assets/square.png"),
+    "nav":"广场",
+    "selectSrc":require("../src/assets/icon_index_selected1.png")
+  },{
+    "routes":"/follow",
+    "src":require("../src/assets/follow.png"),
+    "nav":"关注",
+    "selectSrc":require("../src/assets/icon_index_selected2.png")
+  },{
+    "routes":"",
+    "src":require("../src/assets/bing.png"),
+    "selectSrc":require("../src/assets/bing.png")
+  },{
+    "routes":"/personalLetter",
+    "src":require("../src/assets/personalLetter.png"),
+    "nav":"私信",
+    "selectSrc":require("../src/assets/icon_index_selected3.png")
+  },{
+    "routes":"/mine_home_page",
+    "src":require("../src/assets/mine.png"),
+    "nav":"我的",
+    "selectSrc":require("../src/assets/icon_index_selected4.png")
+  }
+]
